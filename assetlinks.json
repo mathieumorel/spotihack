@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.matchu.spotihack",
+    "sha256_cert_fingerprints":
+   ["D4:34:6D:B0:BD:86:E5:EE:92:2D:EE:04:67:82:93:E0:53:07:DF:98:4A:F5:6C:5F:8A:73:90:16:79:84:F4:BC"]
+  }
+}]
