@@ -1,0 +1,23 @@
+{
+    "activitycontinuation": {
+        "apps": [
+            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+                "paths": [
+                    "/spotihack/*",
+                ]
+            }                     
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+        ]
+    }
+}
